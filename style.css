@@ -1,0 +1,36 @@
+body{
+    background-image: url("img.jpg.jpg");
+    background-image: url("img1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+img {
+    width: 20%;
+border-radius: 50%;
+  }
+h3{
+    color: rgb(93, 93, 185);
+}
+h2{
+    margin-bottom: auto;
+}
+button:hover{
+    color: red;
+    background-color: black !important;
+}
+.details{
+    text-align: center;
+    background-position: center;
+}
+.career objective{
+    text-align: center;
+}
+.contact{
+   background-image: url("img2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
